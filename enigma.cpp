@@ -21,7 +21,7 @@ void online_grocery()
     cout<<"4. Potato_200 "<<endl;
     cout<<"5. Carrot_250"<<endl;
     cout<<"6. Cucumber_150 "<<endl;
-    cout<<"\n**Fruits**"<<endl;
+    cout<<"**Fruits**\n"<<endl;
     cout<<"7. Pomegranate_400 "<<endl;
     cout<<"8. Mango_300 "<<endl;
     cout<<"9. Banana_200 "<<endl;
